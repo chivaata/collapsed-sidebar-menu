@@ -1,9 +1,9 @@
 ///////////////screen sizes///////////////
 
-var mobile = window.matchMedia("(max-width:425px;)");
-var tablet = window.matchMedia("(max-width:768px;)");
-var laptop = window.matchMedia("(max-width:1440px;)");
-var bigScreen = window.matchMedia("(min-width:1441px;)");
+// var mobile = window.matchMedia("(max-width:425px;)");
+// var tablet = window.matchMedia("(max-width:768px;)");
+// var laptop = window.matchMedia("(max-width:1440px;)");
+// var bigScreen = window.matchMedia("(min-width:1441px;)");
 
 //////////////////////////////////////////
 var menu = document.querySelector(".sideNav");
